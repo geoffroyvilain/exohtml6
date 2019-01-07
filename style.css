@@ -1,0 +1,62 @@
+<!--style pour exo6-->
+.ligne1 {
+  width: 100%;
+  height: 50px;
+}
+.vert {
+  width: 75%;
+  height: 50px;
+  background-color: #2ECC71;
+  float: left;
+}
+.bleu {
+  width: 25%;
+  height: 50px;
+  background-color: #2980B9;
+  float: right;
+}
+.ligne2 {
+  width: 100%;
+  height: 100px;
+}
+.rouge {
+  width: 20%;
+  height: 100px;
+  background-color: #E74C3C;
+  float: left;
+}
+.orange {
+  width: 40%;
+  height: 50%;
+  background-color: #E67E22;
+  float: left;
+}
+.gris {
+  width: 40%;
+  height: 50px;
+  background-color: #95A5A6;
+  float: right;
+}
+.jaune {
+  width: 25%;
+  height: 50px;
+  background-color: #F39C12;
+  float: left;
+}
+.turquoise {
+  width: 25%;
+  height: 50px;
+  background-color: #16A085;
+  float: left;
+}
+.marron {
+  width: 30%;
+  height: 50px;
+  background-color: #D35400;
+  float: right;
+}
+.ligne3 {
+  width: 100%;
+  height: 200px;
+  background-color: #2C3E50;
+}
