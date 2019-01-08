@@ -1,62 +1,47 @@
-<!--style pour exo6-->
-.ligne1 {
-  width: 100%;
+div{
+  float:left;
   height: 50px;
 }
-.vert {
-  width: 75%;
-  height: 50px;
+.block1{
+  width: 80%;
   background-color: #2ECC71;
-  float: left;
 }
-.bleu {
-  width: 25%;
-  height: 50px;
-  background-color: #2980B9;
-  float: right;
-}
-.ligne2 {
-  width: 100%;
-  height: 100px;
-}
-.rouge {
+.block2{
   width: 20%;
-  height: 100px;
+  background-color: #2980B9;
+}
+.block3{
+  height: 150px;
+  width: 33%;
   background-color: #E74C3C;
-  float: left;
 }
-.orange {
-  width: 40%;
-  height: 50%;
+.block4{
+  height: 75px;
+  width: 33%;
   background-color: #E67E22;
-  float: left;
-}
-.gris {
-  width: 40%;
-  height: 50px;
+  }
+.block5{
+  height: 75px;
+  width: 34%;
   background-color: #95A5A6;
-  float: right;
-}
-.jaune {
-  width: 25%;
-  height: 50px;
+  }
+.block6{
+  height: 75px;
+  width: 22%;
   background-color: #F39C12;
-  float: left;
-}
-.turquoise {
-  width: 25%;
-  height: 50px;
+  }
+.block7{
+  height: 75px;
+  width: 22%;
   background-color: #16A085;
-  float: left;
-}
-.marron {
-  width: 30%;
-  height: 50px;
-  background-color: #D35400;
-  float: right;
-}
-.ligne3 {
-  width: 100%;
-  height: 200px;
-  background-color: #2C3E50;
-}
+  }
+  .block8{
+    height: 75px;
+    width: 23%;
+    background-color: #D35400;
+    }
+    .block9{
+      height: 170px;
+      width: 100%;
+      background-color: #2C3E50;
+      }
